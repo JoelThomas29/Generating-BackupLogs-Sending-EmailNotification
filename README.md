@@ -1,8 +1,8 @@
 This program is expected to run in a Linux environment, which is able to reach a virtual router/switch configured in GNS3 or running as   a VM in any virtualization platform.
 
 Run the following in the OS terminal before running the application
-sudo apt-get update && sudo apt-get install libssl-dev
 
+sudo apt-get update && sudo apt-get install libssl-dev
 sudo pip3 install netmiko
 
 Start by run.py which would orchestrate the entire application.
