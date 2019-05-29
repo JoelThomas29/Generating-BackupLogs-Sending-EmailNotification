@@ -2,6 +2,7 @@
 
 # Run the following in the OS terminal before running the application
 sudo apt-get update && sudo apt-get install libssl-dev
+
 sudo pip3 install netmiko
 
 # Start by run.py which would orchestrate the entire application.
