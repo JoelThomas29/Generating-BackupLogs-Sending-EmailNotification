@@ -11,8 +11,7 @@ sudo pip3 install netmiko
 Please Note: It would usually take about 10-15 seconds to run the program
              and create the expected results. 
 
-# Please make sure you have set the right configurations in your personal
-  email to receive the notifications sent by the script.
+# Please make sure you have set the right configurations in your personal email to receive the notifications sent by the script.
   For example: gmail categorizes such attempts to login as less secured and 
   as a work around it asks the user to set the required permissions in gmail
   settings. 
